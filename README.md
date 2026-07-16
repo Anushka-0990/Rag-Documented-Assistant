@@ -2,7 +2,7 @@
 
 **A production-style Retrieval-Augmented Generation (RAG) application** that lets users upload any PDF and ask natural-language questions, receiving grounded, cited answers instead of hallucinated ones — with an optional agentic tool-routing layer.
 
-🔗 **https://anushka-0990.github.io/Rag-Documented-Assistant/(#)** &nbsp;·&nbsp; 📦 **https://rag-documented-assistant-rl8vlreparpxrwxdy9zstz.streamlit.app/(#)** &nbsp;·&nbsp; 🎥 **[Screenshots below](#screenshots)**
+🔗 **https://anushka-0990.github.io/Rag-Documented-Assistant** &nbsp;·&nbsp; 📦 **https://rag-documented-assistant-rl8vlreparpxrwxdy9zstz.streamlit.app** &nbsp;·&nbsp; 🎥 **[Screenshots below](#screenshots)**
 
 ---
 
