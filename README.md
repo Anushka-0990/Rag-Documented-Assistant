@@ -24,7 +24,7 @@ Most fresher GenAI projects stop at "chat with your PDF." This one goes further:
 | Vector Store | [ChromaDB](https://www.trychroma.com/) |
 | LLM | [Groq](https://groq.com) (Llama 3.1 8B Instant) |
 | UI | [Streamlit](https://streamlit.io) |
-| Deployment | Hugging Face Spaces|
+| Deployment | Streamlit Cloud|
 
 ## 🏗️ Architecture
 
